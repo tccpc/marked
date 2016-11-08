@@ -1,0 +1,36 @@
+{
+  "name": "vuedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "marked": "^0.3.6",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.1",
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "json-loader": "^0.5.4",
+    "jsx-loader": "^0.13.2",
+    "node-sass": "^3.10.1",
+    "postcss-loader": "^1.0.0",
+    "react-hot-loader": "^3.0.0-beta.6",
+    "react-router": "^3.0.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "scripts": {
+    "build": "node server.js"
+  },
+  "author": "tccpc",
+  "license": "ISC"
+}
